@@ -126,9 +126,7 @@ If you are using shipping categories, these can be used to qualify or disqualify
 
 ### Zones
 
-Zones serve as a mechanism for grouping geographic areas together into a single entity. You can read all about how to configure and use Zones in the <%= link_to 'Zones Guide', :zones %>.
-
-The Shipping Address entered during checkout will define the zone the customer is in and limit the Shipping Methods available to him.
+Zones serve as a mechanism for grouping geographic areas together into a single entity. The Shipping Address entered during checkout will define the zone the customer is in and limit the Shipping Methods available to him.
 
 ### Shipping Categories
 
